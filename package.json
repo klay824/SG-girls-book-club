@@ -20,7 +20,11 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
+    "crypto": "^1.0.1",
     "express": "^4.16.3",
-    "if-env": "^1.0.4"
+    "express-session": "^1.17.2",
+    "if-env": "^1.0.4",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.5"
   }
 }
